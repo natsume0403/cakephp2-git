@@ -263,7 +263,7 @@ return [
             //'port' => 'non_standard_port_number',
             'username' => RDS_USERNAME,
             'password' => RDS_PASSWORD,
-            'database' => RDS_DB_NAME,
+            'database' => 'cake_cms',
             /*
              * You do not need to set this flag to use full utf-8 encoding (internal default since CakePHP 3.6).
              */
